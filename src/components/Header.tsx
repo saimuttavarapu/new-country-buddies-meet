@@ -24,7 +24,7 @@ const Header = () => {
 
         <div className="flex items-center space-x-3">
           <Button variant="ghost" className="hidden md:flex">
-            Sign In
+            Sign In to Register
           </Button>
           <Button className="bg-gradient-primary text-primary-foreground shadow-elegant">
             Join Now
